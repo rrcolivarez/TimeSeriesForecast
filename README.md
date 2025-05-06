@@ -1,0 +1,1 @@
+This sample code employs various time series forecasting models, selecting the most accurate one based on the lowest MAPE. This enables engineering planning and solutioning to proactively identify network traffic devices likely to exceed utilization thresholds in the coming months, thus mitigating congestion, potential service impacts, and revenue loss.
